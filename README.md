@@ -84,7 +84,7 @@ I have my background in Biomedical Sciences 🔬 | Master in human genetics 🧬
 
 ## 🌟 Featured Projects
 
-[![DESMOND2](https://github-readme-stats.vercel.app/api/pin/?username=ozolotareva&repo=DESMOND2&show_owner=True)]("https://github.com/ozolotareva/DESMOND2")
+<a href=https://github.com/ozolotareva/DESMOND2><img src="https://github-readme-stats.vercel.app/api/pin/?username=ozolotareva&repo=DESMOND2&show_owner=True"></a>
 
 ## 👀 Stats
 
@@ -92,8 +92,8 @@ I have my background in Biomedical Sciences 🔬 | Master in human genetics 🧬
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpatroni&hide=jupyter%20notebook&langs_count=6&layout=compact&show_icons=true&count_private=true)
 
-
 ## 📫 How to reach me
 
-* [![LinkedIn](https://img.shields.io/badge/-Fábio%20Patroni-0077B5?style=flat&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/fabio-patroni/")
-* [![Gmail](https://img.shields.io/badge/-fabio.m.patroni@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)]("mailto:fabio.m.patroni@gmail.com")
+* <a href="https://www.linkedin.com/in/fabio-patroni/"><img src="https://img.shields.io/badge/-Fábio%20Patroni-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+
+* <a href="mailto:fabio.m.patroni@gmail.com"><img src="https://img.shields.io/badge/-fabio.m.patroni@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
